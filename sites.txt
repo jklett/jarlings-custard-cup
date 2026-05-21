@@ -1,0 +1,7 @@
+https://getflywheel.com/layout/add-sticky-back-top-button-website/
+
+https://www.w3schools.com/howto/howto_js_scroll_to_top.asp
+
+https://stackoverflow.com/questions/10879955/how-to-align-an-image-dead-center-with-bootstrap
+
+https://www.google.com/search?q=how+to+make+a+floating+back+to+top+button+bootstrap&oq=how+to+make+a+floating+back+to+top+button+bootstrap&aqs=chrome..69i57.11982j0j7&sourceid=chrome&ie=UTF-8
